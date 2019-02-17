@@ -5,6 +5,7 @@
  */
 
 using System;
+using System.CodeDom;
 
 namespace Basic
 {
@@ -34,11 +35,52 @@ namespace Basic
             
             Console.WriteLine(a);
             Console.WriteLine(b);
+            
+            // OverFlow
+            uint over = uint.MaxValue;
+            
+            Console.WriteLine(over);
+            over += 1;
+            Console.WriteLine(over);
+            
+            /*
+             * Boxing & UnBoxing
+             * object형식은 참조 형식이기 때문에 힘에 데이터 할당, int, double은 값형식이기 때문에 스텍에 데이터 할당 .
+             *
+             * Boxing : object형식은 값 형식의 데이터를 힙에 할당하기 위한 기능 제공 
+             * UnBoxing : 박싱되어 있는 값을 꺼내 값 형식 변수에 저장하는 과정 
+             */
 
-
-
-
+            int box = 123;
+            object ob_box = (object) box; // box에 담긴 값을 박싱해서 힙에 저장 
+            int box2 = (int) ob_box; // ob_box에 담긴 값을 언박싱 해서 저장 
+            
+            Console.WriteLine(box);
+            Console.WriteLine(ob_box);
+            Console.WriteLine(box2);
+            
+            /*
+             * 상수(Constants) : 안에담긴 데이터를 절대 바꿀 수 없는 메모리 공간 
+             */
+            const int consts = 100;
+            // consts = 200; // Error 
+            
+            
+            /*
+             * 사용자로부터 사각형의 너비와 높이를 입력받아 넓이를 계산. 
+             */
+            Console.WriteLine("사각형의 너비를 입력하세요");
+            string width = Console.ReadLine();
+                
+            Console.WriteLine("사각형의 높이를 입력하세요");
+            string height = Console.ReadLine();
+            // 형변환
+            Console.WriteLine("사각형의 넓이는 : " + int.Parse(width) * int.Parse(height));
+            
+            
+            
         }
+
     }
         
 }

@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2505ba0-569b-4c57-9565-d7f188d39efe" name="Default" comment="" />
+    <list default="true" id="d2505ba0-569b-4c57-9565-d7f188d39efe" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CSharpLanguage/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSharpLanguage/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSharpLanguage/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/bin/Debug/Basic.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/bin/Debug/Basic.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/bin/Debug/Basic.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/bin/Debug/Basic.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/obj/Debug/Basic.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/obj/Debug/Basic.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basic/obj/Debug/Basic.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/obj/Debug/Basic.pdb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,17 +18,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Basic/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="35">
-              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            <state relative-caret-position="353">
+              <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
               <folding>
-                <marker date="1550308793159" expanded="true" signature="0:252" ph="/* namespace : 성격이나 하는 일이 비슷한 클래스, 구조체, 인터페이스, 델리게이트, 열거 형식 등을 하나의 이름 아래 묶는 일 ... */" />
-                <marker date="1550308793159" expanded="true" signature="284:1243" ph="{...}" />
-                <marker date="1550308793159" expanded="true" signature="313:1232" ph="{...}" />
-                <marker date="1550308793159" expanded="true" signature="550:1226" ph="{...}" />
+                <marker date="1550409621476" expanded="true" signature="0:252" ph="/* namespace : 성격이나 하는 일이 비슷한 클래스, 구조체, 인터페이스, 델리게이트, 열거 형식 등을 하나의 이름 아래 묶는 일 ... */" />
+                <marker date="1550409621476" expanded="true" signature="260:289" ph="..." />
+                <marker date="1550409621476" expanded="true" signature="306:2047" ph="{...}" />
+                <marker date="1550409621476" expanded="true" signature="335:2036" ph="{...}" />
+                <marker date="1550409621476" expanded="true" signature="572:2029" ph="{...}" />
+                <marker date="1550409621476" expanded="true" signature="1446:1717" ph="/* Boxing &amp; UnBoxing ... */" />
               </folding>
             </state>
           </provider>
@@ -28,8 +38,11 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Basic/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Basic/Program.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -48,7 +61,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="379" />
+    <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="726" />
   </component>
@@ -63,11 +76,6 @@
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="CSharpLanguage (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="CSharpLanguage (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Basic" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -120,12 +128,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550305313961</updated>
-      <workItem from="1550305315341" duration="3186000" />
+      <workItem from="1550305315341" duration="3267000" />
+      <workItem from="1550407746917" duration="1856000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3186000" />
+    <option name="totallyTimeSpent" value="5123000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -137,32 +146,32 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="379" width="1280" height="726" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="726" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3290938" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Build" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3290938" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="7" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,13 +184,30 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Basic/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        <state relative-caret-position="435">
+          <caret line="29" column="12" lean-forward="true" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
           <folding>
-            <marker date="1550308793159" expanded="true" signature="0:252" ph="/* namespace : 성격이나 하는 일이 비슷한 클래스, 구조체, 인터페이스, 델리게이트, 열거 형식 등을 하나의 이름 아래 묶는 일 ... */" />
-            <marker date="1550308793159" expanded="true" signature="284:1243" ph="{...}" />
-            <marker date="1550308793159" expanded="true" signature="313:1232" ph="{...}" />
-            <marker date="1550308793159" expanded="true" signature="550:1226" ph="{...}" />
+            <marker date="1550409621476" expanded="true" signature="0:252" ph="/* namespace : 성격이나 하는 일이 비슷한 클래스, 구조체, 인터페이스, 델리게이트, 열거 형식 등을 하나의 이름 아래 묶는 일 ... */" />
+            <marker date="1550409621476" expanded="true" signature="260:289" ph="..." />
+            <marker date="1550409621476" expanded="true" signature="306:2047" ph="{...}" />
+            <marker date="1550409621476" expanded="true" signature="335:2036" ph="{...}" />
+            <marker date="1550409621476" expanded="true" signature="572:2029" ph="{...}" />
+            <marker date="1550409621476" expanded="true" signature="1446:1717" ph="/* Boxing &amp; UnBoxing ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basic/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+          <folding>
+            <marker date="1550409621476" expanded="true" signature="0:252" ph="/* namespace : 성격이나 하는 일이 비슷한 클래스, 구조체, 인터페이스, 델리게이트, 열거 형식 등을 하나의 이름 아래 묶는 일 ... */" />
+            <marker date="1550409621476" expanded="true" signature="260:289" ph="..." />
+            <marker date="1550409621476" expanded="true" signature="306:2047" ph="{...}" />
+            <marker date="1550409621476" expanded="true" signature="335:2036" ph="{...}" />
+            <marker date="1550409621476" expanded="true" signature="572:2029" ph="{...}" />
+            <marker date="1550409621476" expanded="true" signature="1446:1717" ph="/* Boxing &amp; UnBoxing ... */" />
           </folding>
         </state>
       </provider>
