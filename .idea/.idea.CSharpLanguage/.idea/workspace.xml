@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2505ba0-569b-4c57-9565-d7f188d39efe" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSharpLanguage/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSharpLanguage/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSharpLanguage.sln" beforeDir="false" afterPath="$PROJECT_DIR$/CSharpLanguage.sln" afterDir="false" />
-    </list>
+    <list default="true" id="d2505ba0-569b-4c57-9565-d7f188d39efe" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,29 +86,29 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Method/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="34" column="54" selection-start-line="34" selection-start-column="54" selection-end-line="34" selection-end-column="54" />
+            <state relative-caret-position="262">
+              <caret line="115" column="5" lean-forward="true" selection-start-line="115" selection-start-column="5" selection-end-line="115" selection-end-column="5" />
               <folding>
-                <marker date="1550584636051" expanded="true" signature="0:67" ph="/* Method : 객체 지향 프로그래밍 언어에서 사용하는 용어, 일련의 코드를 하나의 이름 아래 묶는 것 ... */" />
-                <marker date="1550584636051" expanded="true" signature="75:121" ph="..." />
-                <marker date="1550584636051" expanded="true" signature="139:2675" ph="{...}" />
-                <marker date="1550584636051" expanded="true" signature="168:1287" ph="{...}" />
-                <marker date="1550584636051" expanded="true" signature="221:1113" ph="{...}" />
-                <marker date="1550584636051" expanded="true" signature="1145:1281" ph="{...}" />
-                <marker date="1550584636051" expanded="true" signature="1343:1539" ph="{...}" />
-                <marker date="1550584636051" expanded="true" signature="1394:1440" ph="{...}" />
-                <marker date="1550584636051" expanded="true" signature="1487:1533" ph="{...}" />
-                <marker date="1550584636051" expanded="true" signature="1549:1654" ph="/* Call by Value : 값에 의한 호출, 값 자체를 전달 ... */" />
-                <marker date="1550584636051" expanded="true" signature="1670:1971" ph="{...}" />
-                <marker date="1550584636051" expanded="true" signature="1727:1814" ph="{...}" />
-                <marker date="1550584636051" expanded="true" signature="1878:1965" ph="{...}" />
-                <marker date="1550584636051" expanded="true" signature="1981:2073" ph="/* Overloading : 하나의 메소드 이름에 여러 개를 구현 , 즉 함수 이름은 동일하나 매개변수의 타입 및 갯수가 달라야 한다. ... */" />
-                <marker date="1550584636051" expanded="true" signature="2096:2667" ph="{...}" />
-                <marker date="1550584636051" expanded="true" signature="2147:2193" ph="{...}" />
-                <marker date="1550584636051" expanded="true" signature="2248:2294" ph="{...}" />
-                <marker date="1550584636051" expanded="true" signature="2346:2393" ph="{...}" />
-                <marker date="1550584636051" expanded="true" signature="2473:2652" ph="{...}" />
-                <marker date="1550584636051" expanded="true" signature="2558:2618" ph="{...}" />
+                <marker date="1550584685952" expanded="true" signature="0:67" ph="/* Method : 객체 지향 프로그래밍 언어에서 사용하는 용어, 일련의 코드를 하나의 이름 아래 묶는 것 ... */" />
+                <marker date="1550584685952" expanded="true" signature="75:121" ph="..." />
+                <marker date="1550584685952" expanded="true" signature="139:2752" ph="{...}" />
+                <marker date="1550584685952" expanded="true" signature="168:1364" ph="{...}" />
+                <marker date="1550584685952" expanded="true" signature="221:1190" ph="{...}" />
+                <marker date="1550584685952" expanded="true" signature="1222:1358" ph="{...}" />
+                <marker date="1550584685952" expanded="true" signature="1420:1616" ph="{...}" />
+                <marker date="1550584685952" expanded="true" signature="1471:1517" ph="{...}" />
+                <marker date="1550584685952" expanded="true" signature="1564:1610" ph="{...}" />
+                <marker date="1550584685952" expanded="true" signature="1626:1731" ph="/* Call by Value : 값에 의한 호출, 값 자체를 전달 ... */" />
+                <marker date="1550584685952" expanded="true" signature="1747:2048" ph="{...}" />
+                <marker date="1550584685952" expanded="true" signature="1804:1891" ph="{...}" />
+                <marker date="1550584685952" expanded="true" signature="1955:2042" ph="{...}" />
+                <marker date="1550584685952" expanded="true" signature="2058:2150" ph="/* Overloading : 하나의 메소드 이름에 여러 개를 구현 , 즉 함수 이름은 동일하나 매개변수의 타입 및 갯수가 달라야 한다. ... */" />
+                <marker date="1550584685952" expanded="true" signature="2173:2744" ph="{...}" />
+                <marker date="1550584685952" expanded="true" signature="2224:2270" ph="{...}" />
+                <marker date="1550584685952" expanded="true" signature="2325:2371" ph="{...}" />
+                <marker date="1550584685952" expanded="true" signature="2423:2470" ph="{...}" />
+                <marker date="1550584685952" expanded="true" signature="2550:2729" ph="{...}" />
+                <marker date="1550584685952" expanded="true" signature="2635:2695" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -219,12 +216,12 @@
       <workItem from="1550305315341" duration="3267000" />
       <workItem from="1550407746917" duration="2810000" />
       <workItem from="1550491185374" duration="3159000" />
-      <workItem from="1550580675598" duration="3871000" />
+      <workItem from="1550580675598" duration="4104000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13107000" />
+    <option name="totallyTimeSpent" value="13340000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -237,16 +234,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="726" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49919224" weight="0.3290938" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50080776" side_tool="true" weight="0.3290938" />
       <window_info anchor="bottom" id="Unit Tests" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49919224" visible="true" weight="0.3290938" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49919224" weight="0.3290938" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3290938" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3290938" />
       <window_info anchor="bottom" id="NuGet" order="7" sideWeight="0.49919224" weight="0.3290938" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26171243" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -440,29 +436,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Method/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="34" column="54" selection-start-line="34" selection-start-column="54" selection-end-line="34" selection-end-column="54" />
+        <state relative-caret-position="262">
+          <caret line="115" column="5" lean-forward="true" selection-start-line="115" selection-start-column="5" selection-end-line="115" selection-end-column="5" />
           <folding>
-            <marker date="1550584636051" expanded="true" signature="0:67" ph="/* Method : 객체 지향 프로그래밍 언어에서 사용하는 용어, 일련의 코드를 하나의 이름 아래 묶는 것 ... */" />
-            <marker date="1550584636051" expanded="true" signature="75:121" ph="..." />
-            <marker date="1550584636051" expanded="true" signature="139:2675" ph="{...}" />
-            <marker date="1550584636051" expanded="true" signature="168:1287" ph="{...}" />
-            <marker date="1550584636051" expanded="true" signature="221:1113" ph="{...}" />
-            <marker date="1550584636051" expanded="true" signature="1145:1281" ph="{...}" />
-            <marker date="1550584636051" expanded="true" signature="1343:1539" ph="{...}" />
-            <marker date="1550584636051" expanded="true" signature="1394:1440" ph="{...}" />
-            <marker date="1550584636051" expanded="true" signature="1487:1533" ph="{...}" />
-            <marker date="1550584636051" expanded="true" signature="1549:1654" ph="/* Call by Value : 값에 의한 호출, 값 자체를 전달 ... */" />
-            <marker date="1550584636051" expanded="true" signature="1670:1971" ph="{...}" />
-            <marker date="1550584636051" expanded="true" signature="1727:1814" ph="{...}" />
-            <marker date="1550584636051" expanded="true" signature="1878:1965" ph="{...}" />
-            <marker date="1550584636051" expanded="true" signature="1981:2073" ph="/* Overloading : 하나의 메소드 이름에 여러 개를 구현 , 즉 함수 이름은 동일하나 매개변수의 타입 및 갯수가 달라야 한다. ... */" />
-            <marker date="1550584636051" expanded="true" signature="2096:2667" ph="{...}" />
-            <marker date="1550584636051" expanded="true" signature="2147:2193" ph="{...}" />
-            <marker date="1550584636051" expanded="true" signature="2248:2294" ph="{...}" />
-            <marker date="1550584636051" expanded="true" signature="2346:2393" ph="{...}" />
-            <marker date="1550584636051" expanded="true" signature="2473:2652" ph="{...}" />
-            <marker date="1550584636051" expanded="true" signature="2558:2618" ph="{...}" />
+            <marker date="1550584685952" expanded="true" signature="0:67" ph="/* Method : 객체 지향 프로그래밍 언어에서 사용하는 용어, 일련의 코드를 하나의 이름 아래 묶는 것 ... */" />
+            <marker date="1550584685952" expanded="true" signature="75:121" ph="..." />
+            <marker date="1550584685952" expanded="true" signature="139:2752" ph="{...}" />
+            <marker date="1550584685952" expanded="true" signature="168:1364" ph="{...}" />
+            <marker date="1550584685952" expanded="true" signature="221:1190" ph="{...}" />
+            <marker date="1550584685952" expanded="true" signature="1222:1358" ph="{...}" />
+            <marker date="1550584685952" expanded="true" signature="1420:1616" ph="{...}" />
+            <marker date="1550584685952" expanded="true" signature="1471:1517" ph="{...}" />
+            <marker date="1550584685952" expanded="true" signature="1564:1610" ph="{...}" />
+            <marker date="1550584685952" expanded="true" signature="1626:1731" ph="/* Call by Value : 값에 의한 호출, 값 자체를 전달 ... */" />
+            <marker date="1550584685952" expanded="true" signature="1747:2048" ph="{...}" />
+            <marker date="1550584685952" expanded="true" signature="1804:1891" ph="{...}" />
+            <marker date="1550584685952" expanded="true" signature="1955:2042" ph="{...}" />
+            <marker date="1550584685952" expanded="true" signature="2058:2150" ph="/* Overloading : 하나의 메소드 이름에 여러 개를 구현 , 즉 함수 이름은 동일하나 매개변수의 타입 및 갯수가 달라야 한다. ... */" />
+            <marker date="1550584685952" expanded="true" signature="2173:2744" ph="{...}" />
+            <marker date="1550584685952" expanded="true" signature="2224:2270" ph="{...}" />
+            <marker date="1550584685952" expanded="true" signature="2325:2371" ph="{...}" />
+            <marker date="1550584685952" expanded="true" signature="2423:2470" ph="{...}" />
+            <marker date="1550584685952" expanded="true" signature="2550:2729" ph="{...}" />
+            <marker date="1550584685952" expanded="true" signature="2635:2695" ph="{...}" />
           </folding>
         </state>
       </provider>
