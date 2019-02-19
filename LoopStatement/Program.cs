@@ -53,7 +53,48 @@ namespace LoopStatement
                 }
                 Console.WriteLine();
             }
+            Console.WriteLine();
+
             
+            for (int i = 0; i < 5; i++)
+            {
+                for (int j = 5; j > i; j--)
+                {
+                    Console.Write("*");
+                }
+                Console.WriteLine();
+            }
+            
+            Console.WriteLine("--피라미드--");
+            //피라미드
+            for (int i = 0; i < 4; i++)
+            {
+                for (int j = 1; j < 4 - i; j++)
+                {
+                    Console.Write(" ");
+                }
+
+                for (int k = 0; k < i * 2 + 1; k++)
+                {
+                    Console.Write("*");
+                }
+                Console.WriteLine();
+            }
+            
+            Console.WriteLine("--역피라미드--");
+            for (int i = 4; i > 0; i--)
+            {
+                for (int j = 4 - i; j > 0; j--)
+                {
+                    Console.Write(" ");
+                }
+
+                for (int k = i * 2 - 1; k > 0; k--)
+                {
+                    Console.Write("*");
+                }
+                Console.WriteLine();
+            }
             
            /*
             * foreach :     배열또는 컬렉션을 순회하며 각 데이터 요소에 차례대로 접근하도록 한다.
