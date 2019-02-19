@@ -1,0 +1,6 @@
+/Users/gyeongmin/RiderProjects/CSharpLanguage/Method/bin/Debug/Method.exe
+/Users/gyeongmin/RiderProjects/CSharpLanguage/Method/bin/Debug/Method.pdb
+/Users/gyeongmin/RiderProjects/CSharpLanguage/Method/obj/Debug/Method.csprojAssemblyReference.cache
+/Users/gyeongmin/RiderProjects/CSharpLanguage/Method/obj/Debug/Method.csproj.CoreCompileInputs.cache
+/Users/gyeongmin/RiderProjects/CSharpLanguage/Method/obj/Debug/Method.exe
+/Users/gyeongmin/RiderProjects/CSharpLanguage/Method/obj/Debug/Method.pdb

@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BranchingStatement", "Branc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopStatement", "LoopStatement\LoopStatement.csproj", "{79DAC015-34CE-4330-9BDC-BB7FE8C720A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method", "Method\Method.csproj", "{8C54E1D1-8F43-4F50-BA09-3C56BDB3C292}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{79DAC015-34CE-4330-9BDC-BB7FE8C720A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79DAC015-34CE-4330-9BDC-BB7FE8C720A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79DAC015-34CE-4330-9BDC-BB7FE8C720A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C54E1D1-8F43-4F50-BA09-3C56BDB3C292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C54E1D1-8F43-4F50-BA09-3C56BDB3C292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C54E1D1-8F43-4F50-BA09-3C56BDB3C292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C54E1D1-8F43-4F50-BA09-3C56BDB3C292}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
