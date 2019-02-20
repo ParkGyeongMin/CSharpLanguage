@@ -111,9 +111,6 @@ namespace Method
                 sum += args[i];
             }
             return sum;
-        }
-        
+        }   
     }
-
-    
 }

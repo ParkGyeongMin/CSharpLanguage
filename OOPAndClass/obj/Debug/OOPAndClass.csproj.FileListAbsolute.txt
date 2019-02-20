@@ -1,0 +1,6 @@
+/Users/gyeongmin/RiderProjects/CSharpLanguage/OOPAndClass/bin/Debug/OOPAndClass.exe
+/Users/gyeongmin/RiderProjects/CSharpLanguage/OOPAndClass/bin/Debug/OOPAndClass.pdb
+/Users/gyeongmin/RiderProjects/CSharpLanguage/OOPAndClass/obj/Debug/OOPAndClass.csprojAssemblyReference.cache
+/Users/gyeongmin/RiderProjects/CSharpLanguage/OOPAndClass/obj/Debug/OOPAndClass.csproj.CoreCompileInputs.cache
+/Users/gyeongmin/RiderProjects/CSharpLanguage/OOPAndClass/obj/Debug/OOPAndClass.exe
+/Users/gyeongmin/RiderProjects/CSharpLanguage/OOPAndClass/obj/Debug/OOPAndClass.pdb
