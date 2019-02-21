@@ -1,0 +1,6 @@
+/Users/gyeongmin/RiderProjects/CSharpLanguage/InterfaceAndAbstract/bin/Debug/InterfaceAndAbstract.exe
+/Users/gyeongmin/RiderProjects/CSharpLanguage/InterfaceAndAbstract/bin/Debug/InterfaceAndAbstract.pdb
+/Users/gyeongmin/RiderProjects/CSharpLanguage/InterfaceAndAbstract/obj/Debug/InterfaceAndAbstract.csprojAssemblyReference.cache
+/Users/gyeongmin/RiderProjects/CSharpLanguage/InterfaceAndAbstract/obj/Debug/InterfaceAndAbstract.csproj.CoreCompileInputs.cache
+/Users/gyeongmin/RiderProjects/CSharpLanguage/InterfaceAndAbstract/obj/Debug/InterfaceAndAbstract.exe
+/Users/gyeongmin/RiderProjects/CSharpLanguage/InterfaceAndAbstract/obj/Debug/InterfaceAndAbstract.pdb
