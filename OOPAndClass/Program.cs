@@ -1,5 +1,11 @@
 ﻿/*
- * object Oriented Programming ( OOP ) : 객체 지향 프로그래밍 
+ * object Oriented Programming ( OOP ) : 객체 지향 프로그래밍
+ * 접근 한정자
+ * public : 클래스의 내부/외부 모든 곳에서 접근할 수 있다.
+ * protected 클래스의 외부에서는 접근할 수 없지만, 파생 클래스에서는 접근이 가능하다.
+ * private : 클래스의 내부에서만 접근할 수 있고, 파생 클래스에서는 접근이 불가능하다.
+ * internal : 같은 어셈블리에 있는 코드에 대해서만 public으로 접근할 수 있다. 다른 어셈블리에 있는 코드에서는 private와 같은 접근성을가진다.
+ * protected internal : 같은 어셈블리에 있는 코드에 대해서만 protected로 접근할 수있다. 다른 어셈블리에 있는 코드에서는 private와 같은 접근성을가진다.
  */
 
 using System;
@@ -28,6 +34,10 @@ namespace OOPAndClass
             ho.SetName("Ho");
             ho.SetPosition("Waiter");
             Console.WriteLine("{0} {1}",ho.GetName(),ho.GetPosition());
+            
+            Console.WriteLine("Createing .....");
+            ArmorSuite ironman = new IronMan();
+            ironman.Initialize();
             
 
         }
@@ -67,6 +77,34 @@ namespace OOPAndClass
             public string GetPosition()
             {
                 return Position;
+            }
+        }
+
+        class ArmorSuite
+        {
+            public virtual void Initialize()
+            {
+                Console.WriteLine("Armored");
+            }
+            
+        }
+
+        class IronMan : ArmorSuite //상속
+        {
+            public override void Initialize()
+            {
+                base.Initialize(); // 상속받은 Class의 메소드를 실행 시킨다.
+                Console.WriteLine("Repulsor Rays Armed");
+            }
+        }
+
+        class WarMachine : ArmorSuite
+        {
+            public override void Initialize()
+            {
+                base.Initialize();
+                Console.WriteLine("Double-Barrel Cannons Armed");
+                Console.WriteLine("Micro-Rocket Launcher Armed");
             }
         }
     }
