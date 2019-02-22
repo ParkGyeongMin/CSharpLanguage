@@ -1,0 +1,6 @@
+/Users/gyeongmin/RiderProjects/CSharpLanguage/Array/bin/Debug/Array.exe
+/Users/gyeongmin/RiderProjects/CSharpLanguage/Array/bin/Debug/Array.pdb
+/Users/gyeongmin/RiderProjects/CSharpLanguage/Array/obj/Debug/Array.csprojAssemblyReference.cache
+/Users/gyeongmin/RiderProjects/CSharpLanguage/Array/obj/Debug/Array.csproj.CoreCompileInputs.cache
+/Users/gyeongmin/RiderProjects/CSharpLanguage/Array/obj/Debug/Array.exe
+/Users/gyeongmin/RiderProjects/CSharpLanguage/Array/obj/Debug/Array.pdb
