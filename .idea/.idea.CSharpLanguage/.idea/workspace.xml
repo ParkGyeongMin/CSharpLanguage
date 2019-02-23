@@ -3,8 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="d2505ba0-569b-4c57-9565-d7f188d39efe" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CSharpLanguage/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSharpLanguage/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSharpLanguage.sln" beforeDir="false" afterPath="$PROJECT_DIR$/CSharpLanguage.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InterfaceAndAbstract/obj/Debug/InterfaceAndAbstract.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/InterfaceAndAbstract/obj/Debug/InterfaceAndAbstract.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/bin/Debug/Array.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Array/bin/Debug/Array.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/bin/Debug/Array.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Array/bin/Debug/Array.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/obj/Debug/Array.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Array/obj/Debug/Array.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/obj/Debug/Array.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Array/obj/Debug/Array.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/obj/Debug/Array.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Array/obj/Debug/Array.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,44 +19,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/InterfaceAndAbstract/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="55" column="15" selection-start-line="55" selection-start-column="15" selection-end-line="55" selection-end-column="15" />
-              <folding>
-                <marker date="1550824245096" expanded="true" signature="0:323" ph="/* 인터 페이스(Interface) : 인스턴스를 가질 수 없으며, 인터페이스를 상속받는 클래스의 인스턴스를 만드는 것은 가능하다. ... */" />
-                <marker date="1550824245096" expanded="true" signature="370:2024" ph="{...}" />
-                <marker date="1550824245096" expanded="true" signature="399:2022" ph="{...}" />
-                <marker date="1550824245096" expanded="true" signature="427:940" ph="{...}" />
-                <marker date="1550824245096" expanded="true" signature="488:930" ph="{...}" />
-                <marker date="1550824245096" expanded="true" signature="985:1029" ph="{...}" />
-                <marker date="1550824245096" expanded="true" signature="1057:1101" ph="{...}" />
-                <marker date="1550824245096" expanded="true" signature="1148:1379" ph="{...}" />
-                <marker date="1550824245096" expanded="true" signature="1188:1263" ph="{...}" />
-                <marker date="1550824245096" expanded="true" signature="1294:1369" ph="{...}" />
-                <marker date="1550824245096" expanded="true" signature="1432:1781" ph="{...}" />
-                <marker date="1550824245096" expanded="true" signature="1486:1582" ph="{...}" />
-                <marker date="1550824245096" expanded="true" signature="1623:1718" ph="{...}" />
-                <marker date="1550824245096" expanded="true" signature="1819:2016" ph="{...}" />
-                <marker date="1550824245096" expanded="true" signature="1880:2006" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Array/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="28" column="12" lean-forward="true" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+            <state relative-caret-position="278">
+              <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
               <folding>
-                <marker date="1550824969594" expanded="true" signature="30:842" ph="{...}" />
-                <marker date="1550824969594" expanded="true" signature="59:840" ph="{...}" />
-                <marker date="1550824969594" expanded="true" signature="112:834" ph="{...}" />
-                <marker date="1550824969594" expanded="true" signature="422:495" ph="{...}" />
-                <marker date="1550824969594" expanded="true" signature="580:653" ph="{...}" />
-                <marker date="1550824969594" expanded="true" signature="738:811" ph="{...}" />
+                <marker date="1550908340880" expanded="true" signature="6:39" ph="..." />
+                <marker date="1550908340880" expanded="true" signature="56:2734" ph="{...}" />
+                <marker date="1550908340880" expanded="true" signature="85:2732" ph="{...}" />
+                <marker date="1550908340880" expanded="true" signature="138:2726" ph="{...}" />
+                <marker date="1550908340880" expanded="true" signature="448:521" ph="{...}" />
+                <marker date="1550908340880" expanded="true" signature="606:679" ph="{...}" />
+                <marker date="1550908340880" expanded="true" signature="764:837" ph="{...}" />
+                <marker date="1550908340880" expanded="true" signature="978:1206" ph="{...}" />
+                <marker date="1550908340880" expanded="true" signature="1051:1155" ph="{...}" />
+                <marker date="1550908340880" expanded="true" signature="1275:1465" ph="{...}" />
+                <marker date="1550908340880" expanded="true" signature="1524:1934" ph="{...}" />
+                <marker date="1550908340880" expanded="true" signature="1599:1883" ph="{...}" />
+                <marker date="1550908340880" expanded="true" signature="1722:1825" ph="{...}" />
+                <marker date="1550908340880" expanded="true" signature="2033:2090" ph="{...}" />
+                <marker date="1550908340880" expanded="true" signature="2128:2191" ph="{...}" />
+                <marker date="1550908340880" expanded="true" signature="2291:2354" ph="{...}" />
+                <marker date="1550908340880" expanded="true" signature="2467:2530" ph="{...}" />
+                <marker date="1550908340880" expanded="true" signature="2639:2711" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -71,7 +61,7 @@
     <setting file="file://$PROJECT_DIR$/Method/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/InterfaceAndAbstract/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/InterfaceAndAbstract/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Array/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Array/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Basic/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -106,6 +96,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -119,7 +110,6 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -171,12 +161,13 @@
       <workItem from="1550584875410" duration="484000" />
       <workItem from="1550669306100" duration="2880000" />
       <workItem from="1550756167681" duration="2926000" />
-      <workItem from="1550823610339" duration="1321000" />
+      <workItem from="1550823610339" duration="2800000" />
+      <workItem from="1550906746036" duration="1593000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20951000" />
+    <option name="totallyTimeSpent" value="24023000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -189,18 +180,20 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="726" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49919224" weight="0.3290938" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50080776" side_tool="true" weight="0.3290938" />
       <window_info anchor="bottom" id="Unit Tests" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49919224" weight="0.3290938" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49919224" visible="true" weight="0.3290938" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3290938" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3290938" />
       <window_info anchor="bottom" id="NuGet" order="7" sideWeight="0.49919224" weight="0.3290938" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27786753" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2819063" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.3290938" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -211,7 +204,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.3290938" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
@@ -223,27 +215,37 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Array/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding>
+            <marker date="1550908340880" expanded="true" signature="6:39" ph="..." />
+            <marker date="1550908340880" expanded="true" signature="56:2734" ph="{...}" />
+            <marker date="1550908340880" expanded="true" signature="85:2732" ph="{...}" />
+            <marker date="1550908340880" expanded="true" signature="138:2726" ph="{...}" />
+            <marker date="1550908340880" expanded="true" signature="448:521" ph="{...}" />
+            <marker date="1550908340880" expanded="true" signature="606:679" ph="{...}" />
+            <marker date="1550908340880" expanded="true" signature="764:837" ph="{...}" />
+            <marker date="1550908340880" expanded="true" signature="978:1206" ph="{...}" />
+            <marker date="1550908340880" expanded="true" signature="1051:1155" ph="{...}" />
+            <marker date="1550908340880" expanded="true" signature="1275:1465" ph="{...}" />
+            <marker date="1550908340880" expanded="true" signature="1524:1934" ph="{...}" />
+            <marker date="1550908340880" expanded="true" signature="1599:1883" ph="{...}" />
+            <marker date="1550908340880" expanded="true" signature="1722:1825" ph="{...}" />
+            <marker date="1550908340880" expanded="true" signature="2033:2090" ph="{...}" />
+            <marker date="1550908340880" expanded="true" signature="2128:2191" ph="{...}" />
+            <marker date="1550908340880" expanded="true" signature="2291:2354" ph="{...}" />
+            <marker date="1550908340880" expanded="true" signature="2467:2530" ph="{...}" />
+            <marker date="1550908340880" expanded="true" signature="2639:2711" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/InterfaceAndAbstract/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="55" column="15" lean-forward="true" selection-start-line="55" selection-start-column="15" selection-end-line="55" selection-end-column="15" />
-          <folding>
-            <marker date="1550824245096" expanded="true" signature="0:323" ph="/* 인터 페이스(Interface) : 인스턴스를 가질 수 없으며, 인터페이스를 상속받는 클래스의 인스턴스를 만드는 것은 가능하다. ... */" />
-            <marker date="1550824245096" expanded="true" signature="370:2024" ph="{...}" />
-            <marker date="1550824245096" expanded="true" signature="399:2022" ph="{...}" />
-            <marker date="1550824245096" expanded="true" signature="427:940" ph="{...}" />
-            <marker date="1550824245096" expanded="true" signature="488:930" ph="{...}" />
-            <marker date="1550824245096" expanded="true" signature="985:1029" ph="{...}" />
-            <marker date="1550824245096" expanded="true" signature="1057:1101" ph="{...}" />
-            <marker date="1550824245096" expanded="true" signature="1148:1379" ph="{...}" />
-            <marker date="1550824245096" expanded="true" signature="1188:1263" ph="{...}" />
-            <marker date="1550824245096" expanded="true" signature="1294:1369" ph="{...}" />
-            <marker date="1550824245096" expanded="true" signature="1432:1781" ph="{...}" />
-            <marker date="1550824245096" expanded="true" signature="1486:1582" ph="{...}" />
-            <marker date="1550824245096" expanded="true" signature="1623:1718" ph="{...}" />
-            <marker date="1550824245096" expanded="true" signature="1819:2016" ph="{...}" />
-            <marker date="1550824245096" expanded="true" signature="1880:2006" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -412,37 +414,32 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="113">
           <caret line="55" column="15" selection-start-line="55" selection-start-column="15" selection-end-line="55" selection-end-column="15" />
-          <folding>
-            <marker date="1550824245096" expanded="true" signature="0:323" ph="/* 인터 페이스(Interface) : 인스턴스를 가질 수 없으며, 인터페이스를 상속받는 클래스의 인스턴스를 만드는 것은 가능하다. ... */" />
-            <marker date="1550824245096" expanded="true" signature="370:2024" ph="{...}" />
-            <marker date="1550824245096" expanded="true" signature="399:2022" ph="{...}" />
-            <marker date="1550824245096" expanded="true" signature="427:940" ph="{...}" />
-            <marker date="1550824245096" expanded="true" signature="488:930" ph="{...}" />
-            <marker date="1550824245096" expanded="true" signature="985:1029" ph="{...}" />
-            <marker date="1550824245096" expanded="true" signature="1057:1101" ph="{...}" />
-            <marker date="1550824245096" expanded="true" signature="1148:1379" ph="{...}" />
-            <marker date="1550824245096" expanded="true" signature="1188:1263" ph="{...}" />
-            <marker date="1550824245096" expanded="true" signature="1294:1369" ph="{...}" />
-            <marker date="1550824245096" expanded="true" signature="1432:1781" ph="{...}" />
-            <marker date="1550824245096" expanded="true" signature="1486:1582" ph="{...}" />
-            <marker date="1550824245096" expanded="true" signature="1623:1718" ph="{...}" />
-            <marker date="1550824245096" expanded="true" signature="1819:2016" ph="{...}" />
-            <marker date="1550824245096" expanded="true" signature="1880:2006" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Array/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="28" column="12" lean-forward="true" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+        <state relative-caret-position="278">
+          <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
           <folding>
-            <marker date="1550824969594" expanded="true" signature="30:842" ph="{...}" />
-            <marker date="1550824969594" expanded="true" signature="59:840" ph="{...}" />
-            <marker date="1550824969594" expanded="true" signature="112:834" ph="{...}" />
-            <marker date="1550824969594" expanded="true" signature="422:495" ph="{...}" />
-            <marker date="1550824969594" expanded="true" signature="580:653" ph="{...}" />
-            <marker date="1550824969594" expanded="true" signature="738:811" ph="{...}" />
+            <marker date="1550908340880" expanded="true" signature="6:39" ph="..." />
+            <marker date="1550908340880" expanded="true" signature="56:2734" ph="{...}" />
+            <marker date="1550908340880" expanded="true" signature="85:2732" ph="{...}" />
+            <marker date="1550908340880" expanded="true" signature="138:2726" ph="{...}" />
+            <marker date="1550908340880" expanded="true" signature="448:521" ph="{...}" />
+            <marker date="1550908340880" expanded="true" signature="606:679" ph="{...}" />
+            <marker date="1550908340880" expanded="true" signature="764:837" ph="{...}" />
+            <marker date="1550908340880" expanded="true" signature="978:1206" ph="{...}" />
+            <marker date="1550908340880" expanded="true" signature="1051:1155" ph="{...}" />
+            <marker date="1550908340880" expanded="true" signature="1275:1465" ph="{...}" />
+            <marker date="1550908340880" expanded="true" signature="1524:1934" ph="{...}" />
+            <marker date="1550908340880" expanded="true" signature="1599:1883" ph="{...}" />
+            <marker date="1550908340880" expanded="true" signature="1722:1825" ph="{...}" />
+            <marker date="1550908340880" expanded="true" signature="2033:2090" ph="{...}" />
+            <marker date="1550908340880" expanded="true" signature="2128:2191" ph="{...}" />
+            <marker date="1550908340880" expanded="true" signature="2291:2354" ph="{...}" />
+            <marker date="1550908340880" expanded="true" signature="2467:2530" ph="{...}" />
+            <marker date="1550908340880" expanded="true" signature="2639:2711" ph="{...}" />
           </folding>
         </state>
       </provider>
