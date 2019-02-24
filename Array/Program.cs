@@ -92,7 +92,54 @@ namespace Array
             {
                 Console.Write(list[i]);
             }
+            /*
+             * Queue : FIFO(First In First Out) 
+             */
+            
+            Queue que = new Queue();
+            que.Enqueue(1);
+            que.Enqueue(2);
+            que.Enqueue(3);
+            que.Enqueue(4);
+            que.Enqueue(5);
+            
+            Console.WriteLine();
+            Console.WriteLine("Queue");
+            while (que.Count > 0)
+            {
+                Console.WriteLine(que.Dequeue());
+            }
+            
+            /*
+             * Stack : LIFO(Last In First Out) 
+             */
+            Console.WriteLine("Stack");
 
+            Stack stack = new Stack();
+            stack.Push(1);
+            stack.Push(2);
+            stack.Push(3);
+            stack.Push(4);
+            stack.Push(5);
+            while (stack.Count > 0)
+            {
+                Console.WriteLine(stack.Pop());
+            }
+            
+            /*
+             * HashTable
+             */
+            
+            Console.WriteLine("HashTable");
+            Hashtable ht = new Hashtable();
+            ht["0"] = "ONE";
+            ht["1"] = "Two";
+            ht["2"] = "Three";
+            ht["3"] = "Four";
+            ht["4"] = "Five";
+            Console.WriteLine(ht["0"]);
+            
+            
         }
     }
 }
