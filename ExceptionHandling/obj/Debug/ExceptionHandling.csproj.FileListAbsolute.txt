@@ -1,0 +1,6 @@
+/Users/gyeongmin/RiderProjects/CSharpLanguage/ExceptionHandling/bin/Debug/ExceptionHandling.exe
+/Users/gyeongmin/RiderProjects/CSharpLanguage/ExceptionHandling/bin/Debug/ExceptionHandling.pdb
+/Users/gyeongmin/RiderProjects/CSharpLanguage/ExceptionHandling/obj/Debug/ExceptionHandling.csprojAssemblyReference.cache
+/Users/gyeongmin/RiderProjects/CSharpLanguage/ExceptionHandling/obj/Debug/ExceptionHandling.csproj.CoreCompileInputs.cache
+/Users/gyeongmin/RiderProjects/CSharpLanguage/ExceptionHandling/obj/Debug/ExceptionHandling.exe
+/Users/gyeongmin/RiderProjects/CSharpLanguage/ExceptionHandling/obj/Debug/ExceptionHandling.pdb

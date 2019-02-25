@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2505ba0-569b-4c57-9565-d7f188d39efe" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSharpLanguage/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSharpLanguage/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CSharpLanguage/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSharpLanguage/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Array/bin/Debug/Array.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Array/bin/Debug/Array.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Array/bin/Debug/Array.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Array/bin/Debug/Array.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Array/obj/Debug/Array.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Array/obj/Debug/Array.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Array/obj/Debug/Array.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Array/obj/Debug/Array.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSharpLanguage.sln" beforeDir="false" afterPath="$PROJECT_DIR$/CSharpLanguage.sln" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,35 +19,58 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Array/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="140" column="39" lean-forward="true" selection-start-line="140" selection-start-column="39" selection-end-line="140" selection-end-column="39" />
+            <state relative-caret-position="262">
+              <caret line="141" column="12" selection-start-line="141" selection-start-column="12" selection-end-line="141" selection-end-column="12" />
               <folding>
-                <marker date="1551017905475" expanded="false" signature="6:39" ph="..." />
-                <marker date="1551017905475" expanded="true" signature="56:4080" ph="{...}" />
-                <marker date="1551017905475" expanded="true" signature="85:4078" ph="{...}" />
-                <marker date="1551017905475" expanded="true" signature="138:4072" ph="{...}" />
-                <marker date="1551017905475" expanded="true" signature="448:521" ph="{...}" />
-                <marker date="1551017905475" expanded="true" signature="606:679" ph="{...}" />
-                <marker date="1551017905475" expanded="true" signature="764:837" ph="{...}" />
-                <marker date="1551017905475" expanded="true" signature="978:1206" ph="{...}" />
-                <marker date="1551017905475" expanded="true" signature="1051:1155" ph="{...}" />
-                <marker date="1551017905475" expanded="true" signature="1275:1465" ph="{...}" />
-                <marker date="1551017905475" expanded="true" signature="1524:1934" ph="{...}" />
-                <marker date="1551017905475" expanded="true" signature="1599:1883" ph="{...}" />
-                <marker date="1551017905475" expanded="true" signature="1722:1825" ph="{...}" />
-                <marker date="1551017905475" expanded="true" signature="2059:2116" ph="{...}" />
-                <marker date="1551017905475" expanded="true" signature="2154:2217" ph="{...}" />
-                <marker date="1551017905475" expanded="true" signature="2317:2380" ph="{...}" />
-                <marker date="1551017905475" expanded="true" signature="2493:2556" ph="{...}" />
-                <marker date="1551017905475" expanded="true" signature="2709:2777" ph="{...}" />
-                <marker date="1551017905475" expanded="true" signature="2790:2857" ph="/* Queue : FIFO(First In First Out) ... */" />
-                <marker date="1551017905475" expanded="true" signature="3167:3245" ph="{...}" />
-                <marker date="1551017905475" expanded="true" signature="3271:3337" ph="/* Stack : LIFO(Last In First Out) ... */" />
-                <marker date="1551017905475" expanded="true" signature="3588:3664" ph="{...}" />
-                <marker date="1551017905475" expanded="true" signature="3690:3733" ph="/* HashTable ... */" />
+                <marker date="1551018127368" expanded="false" signature="6:39" ph="..." />
+                <marker date="1551018127368" expanded="true" signature="56:4067" ph="{...}" />
+                <marker date="1551018127368" expanded="true" signature="85:4065" ph="{...}" />
+                <marker date="1551018127368" expanded="true" signature="138:4059" ph="{...}" />
+                <marker date="1551018127368" expanded="true" signature="448:521" ph="{...}" />
+                <marker date="1551018127368" expanded="true" signature="606:679" ph="{...}" />
+                <marker date="1551018127368" expanded="true" signature="764:837" ph="{...}" />
+                <marker date="1551018127368" expanded="true" signature="978:1206" ph="{...}" />
+                <marker date="1551018127368" expanded="true" signature="1051:1155" ph="{...}" />
+                <marker date="1551018127368" expanded="true" signature="1275:1465" ph="{...}" />
+                <marker date="1551018127368" expanded="true" signature="1524:1934" ph="{...}" />
+                <marker date="1551018127368" expanded="true" signature="1599:1883" ph="{...}" />
+                <marker date="1551018127368" expanded="true" signature="1722:1825" ph="{...}" />
+                <marker date="1551018127368" expanded="true" signature="2059:2116" ph="{...}" />
+                <marker date="1551018127368" expanded="true" signature="2154:2217" ph="{...}" />
+                <marker date="1551018127368" expanded="true" signature="2317:2380" ph="{...}" />
+                <marker date="1551018127368" expanded="true" signature="2493:2556" ph="{...}" />
+                <marker date="1551018127368" expanded="true" signature="2709:2777" ph="{...}" />
+                <marker date="1551018127368" expanded="true" signature="2790:2857" ph="/* Queue : FIFO(First In First Out) ... */" />
+                <marker date="1551018127368" expanded="true" signature="3167:3245" ph="{...}" />
+                <marker date="1551018127368" expanded="true" signature="3271:3337" ph="/* Stack : LIFO(Last In First Out) ... */" />
+                <marker date="1551018127368" expanded="true" signature="3588:3664" ph="{...}" />
+                <marker date="1551018127368" expanded="true" signature="3690:3733" ph="/* HashTable ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ExceptionHandling/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+              <folding>
+                <marker date="1551103918028" expanded="true" signature="42:1261" ph="{...}" />
+                <marker date="1551103918028" expanded="true" signature="71:1259" ph="{...}" />
+                <marker date="1551103918028" expanded="true" signature="124:990" ph="{...}" />
+                <marker date="1551103918028" expanded="true" signature="202:357" ph="{...}" />
+                <marker date="1551103918028" expanded="true" signature="260:343" ph="{...}" />
+                <marker date="1551103918028" expanded="true" signature="370:522" ph="/* System.Exception 클래스를 이용하면 하나의 catch로 처리할 수 있다. ... */" />
+                <marker date="1551103918028" expanded="true" signature="570:644" ph="{...}" />
+                <marker date="1551103918028" expanded="true" signature="694:831" ph="{...}" />
+                <marker date="1551103918028" expanded="true" signature="863:954" ph="{...}" />
+                <marker date="1551103918028" expanded="true" signature="1027:1253" ph="{...}" />
+                <marker date="1551103918028" expanded="true" signature="1063:1143" ph="{...}" />
+                <marker date="1551103918028" expanded="true" signature="1160:1243" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -65,7 +89,8 @@
     <setting file="file://$PROJECT_DIR$/Method/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/InterfaceAndAbstract/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/InterfaceAndAbstract/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Array/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Array/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ExceptionHandling/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Basic/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -78,6 +103,7 @@
         <option value="$PROJECT_DIR$/OOPAndClass/Program.cs" />
         <option value="$PROJECT_DIR$/InterfaceAndAbstract/Program.cs" />
         <option value="$PROJECT_DIR$/Array/Program.cs" />
+        <option value="$PROJECT_DIR$/ExceptionHandling/Program.cs" />
       </list>
     </option>
   </component>
@@ -100,13 +126,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="CSharpLanguage (7 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="CSharpLanguage (8 projects)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -114,6 +139,7 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -134,13 +160,13 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/InterfaceAndAbstract/bin/Debug/InterfaceAndAbstract.exe" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Array/bin/Debug/Array.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/InterfaceAndAbstract/bin/Debug" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Array/Array.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ExceptionHandling/ExceptionHandling.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -167,12 +193,13 @@
       <workItem from="1550756167681" duration="2926000" />
       <workItem from="1550823610339" duration="2800000" />
       <workItem from="1550906746036" duration="3635000" />
-      <workItem from="1551017354591" duration="551000" />
+      <workItem from="1551017354591" duration="890000" />
+      <workItem from="1551102962152" duration="953000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26616000" />
+    <option name="totallyTimeSpent" value="27908000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -196,7 +223,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3290938" />
       <window_info anchor="bottom" id="NuGet" order="7" sideWeight="0.49919224" weight="0.3290938" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28594506" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2907916" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.3290938" />
       <window_info anchor="right" id="Database" order="3" />
@@ -222,32 +249,64 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Array/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2100">
+          <caret line="141" column="12" lean-forward="true" selection-start-line="141" selection-start-column="12" selection-end-line="141" selection-end-column="12" />
+          <folding>
+            <marker date="1551018127368" expanded="false" signature="6:39" ph="..." />
+            <marker date="1551018127368" expanded="true" signature="56:4067" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="85:4065" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="138:4059" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="448:521" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="606:679" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="764:837" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="978:1206" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="1051:1155" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="1275:1465" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="1524:1934" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="1599:1883" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="1722:1825" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="2059:2116" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="2154:2217" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="2317:2380" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="2493:2556" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="2709:2777" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="2790:2857" ph="/* Queue : FIFO(First In First Out) ... */" />
+            <marker date="1551018127368" expanded="true" signature="3167:3245" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="3271:3337" ph="/* Stack : LIFO(Last In First Out) ... */" />
+            <marker date="1551018127368" expanded="true" signature="3588:3664" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="3690:3733" ph="/* HashTable ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1335">
           <caret line="89" column="12" lean-forward="true" selection-start-line="89" selection-start-column="12" selection-end-line="89" selection-end-column="12" />
           <folding>
-            <marker date="1551017905475" expanded="false" signature="6:39" ph="..." />
-            <marker date="1551017905475" expanded="true" signature="56:4080" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="85:4078" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="138:4072" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="448:521" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="606:679" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="764:837" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="978:1206" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="1051:1155" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="1275:1465" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="1524:1934" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="1599:1883" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="1722:1825" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="2059:2116" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="2154:2217" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="2317:2380" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="2493:2556" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="2709:2777" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="2790:2857" ph="/* Queue : FIFO(First In First Out) ... */" />
-            <marker date="1551017905475" expanded="true" signature="3167:3245" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="3271:3337" ph="/* Stack : LIFO(Last In First Out) ... */" />
-            <marker date="1551017905475" expanded="true" signature="3588:3664" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="3690:3733" ph="/* HashTable ... */" />
+            <marker date="1551018127368" expanded="false" signature="6:39" ph="..." />
+            <marker date="1551018127368" expanded="true" signature="56:4067" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="85:4065" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="138:4059" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="448:521" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="606:679" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="764:837" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="978:1206" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="1051:1155" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="1275:1465" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="1524:1934" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="1599:1883" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="1722:1825" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="2059:2116" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="2154:2217" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="2317:2380" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="2493:2556" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="2709:2777" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="2790:2857" ph="/* Queue : FIFO(First In First Out) ... */" />
+            <marker date="1551018127368" expanded="true" signature="3167:3245" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="3271:3337" ph="/* Stack : LIFO(Last In First Out) ... */" />
+            <marker date="1551018127368" expanded="true" signature="3588:3664" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="3690:3733" ph="/* HashTable ... */" />
           </folding>
         </state>
       </provider>
@@ -257,29 +316,29 @@
         <state relative-caret-position="330">
           <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
           <folding>
-            <marker date="1551017905475" expanded="false" signature="6:39" ph="..." />
-            <marker date="1551017905475" expanded="true" signature="56:4080" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="85:4078" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="138:4072" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="448:521" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="606:679" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="764:837" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="978:1206" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="1051:1155" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="1275:1465" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="1524:1934" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="1599:1883" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="1722:1825" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="2059:2116" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="2154:2217" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="2317:2380" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="2493:2556" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="2709:2777" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="2790:2857" ph="/* Queue : FIFO(First In First Out) ... */" />
-            <marker date="1551017905475" expanded="true" signature="3167:3245" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="3271:3337" ph="/* Stack : LIFO(Last In First Out) ... */" />
-            <marker date="1551017905475" expanded="true" signature="3588:3664" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="3690:3733" ph="/* HashTable ... */" />
+            <marker date="1551018127368" expanded="false" signature="6:39" ph="..." />
+            <marker date="1551018127368" expanded="true" signature="56:4067" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="85:4065" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="138:4059" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="448:521" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="606:679" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="764:837" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="978:1206" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="1051:1155" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="1275:1465" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="1524:1934" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="1599:1883" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="1722:1825" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="2059:2116" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="2154:2217" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="2317:2380" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="2493:2556" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="2709:2777" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="2790:2857" ph="/* Queue : FIFO(First In First Out) ... */" />
+            <marker date="1551018127368" expanded="true" signature="3167:3245" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="3271:3337" ph="/* Stack : LIFO(Last In First Out) ... */" />
+            <marker date="1551018127368" expanded="true" signature="3588:3664" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="3690:3733" ph="/* HashTable ... */" />
           </folding>
         </state>
       </provider>
@@ -461,32 +520,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Array/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="140" column="39" lean-forward="true" selection-start-line="140" selection-start-column="39" selection-end-line="140" selection-end-column="39" />
+        <state relative-caret-position="262">
+          <caret line="141" column="12" selection-start-line="141" selection-start-column="12" selection-end-line="141" selection-end-column="12" />
           <folding>
-            <marker date="1551017905475" expanded="false" signature="6:39" ph="..." />
-            <marker date="1551017905475" expanded="true" signature="56:4080" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="85:4078" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="138:4072" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="448:521" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="606:679" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="764:837" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="978:1206" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="1051:1155" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="1275:1465" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="1524:1934" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="1599:1883" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="1722:1825" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="2059:2116" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="2154:2217" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="2317:2380" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="2493:2556" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="2709:2777" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="2790:2857" ph="/* Queue : FIFO(First In First Out) ... */" />
-            <marker date="1551017905475" expanded="true" signature="3167:3245" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="3271:3337" ph="/* Stack : LIFO(Last In First Out) ... */" />
-            <marker date="1551017905475" expanded="true" signature="3588:3664" ph="{...}" />
-            <marker date="1551017905475" expanded="true" signature="3690:3733" ph="/* HashTable ... */" />
+            <marker date="1551018127368" expanded="false" signature="6:39" ph="..." />
+            <marker date="1551018127368" expanded="true" signature="56:4067" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="85:4065" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="138:4059" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="448:521" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="606:679" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="764:837" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="978:1206" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="1051:1155" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="1275:1465" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="1524:1934" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="1599:1883" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="1722:1825" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="2059:2116" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="2154:2217" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="2317:2380" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="2493:2556" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="2709:2777" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="2790:2857" ph="/* Queue : FIFO(First In First Out) ... */" />
+            <marker date="1551018127368" expanded="true" signature="3167:3245" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="3271:3337" ph="/* Stack : LIFO(Last In First Out) ... */" />
+            <marker date="1551018127368" expanded="true" signature="3588:3664" ph="{...}" />
+            <marker date="1551018127368" expanded="true" signature="3690:3733" ph="/* HashTable ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExceptionHandling/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+          <folding>
+            <marker date="1551103918028" expanded="true" signature="42:1261" ph="{...}" />
+            <marker date="1551103918028" expanded="true" signature="71:1259" ph="{...}" />
+            <marker date="1551103918028" expanded="true" signature="124:990" ph="{...}" />
+            <marker date="1551103918028" expanded="true" signature="202:357" ph="{...}" />
+            <marker date="1551103918028" expanded="true" signature="260:343" ph="{...}" />
+            <marker date="1551103918028" expanded="true" signature="370:522" ph="/* System.Exception 클래스를 이용하면 하나의 catch로 처리할 수 있다. ... */" />
+            <marker date="1551103918028" expanded="true" signature="570:644" ph="{...}" />
+            <marker date="1551103918028" expanded="true" signature="694:831" ph="{...}" />
+            <marker date="1551103918028" expanded="true" signature="863:954" ph="{...}" />
+            <marker date="1551103918028" expanded="true" signature="1027:1253" ph="{...}" />
+            <marker date="1551103918028" expanded="true" signature="1063:1143" ph="{...}" />
+            <marker date="1551103918028" expanded="true" signature="1160:1243" ph="{...}" />
           </folding>
         </state>
       </provider>
