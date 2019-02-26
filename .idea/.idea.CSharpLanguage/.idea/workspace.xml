@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2505ba0-569b-4c57-9565-d7f188d39efe" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSharpLanguage/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSharpLanguage/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CSharpLanguage/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CSharpLanguage/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/bin/Debug/Array.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Array/bin/Debug/Array.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/bin/Debug/Array.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Array/bin/Debug/Array.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/obj/Debug/Array.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Array/obj/Debug/Array.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/obj/Debug/Array.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Array/obj/Debug/Array.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSharpLanguage.sln" beforeDir="false" afterPath="$PROJECT_DIR$/CSharpLanguage.sln" afterDir="false" />
-    </list>
+    <list default="true" id="d2505ba0-569b-4c57-9565-d7f188d39efe" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,21 +48,21 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ExceptionHandling/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+            <state relative-caret-position="217">
+              <caret line="48" column="16" lean-forward="true" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
               <folding>
-                <marker date="1551103918028" expanded="true" signature="42:1261" ph="{...}" />
-                <marker date="1551103918028" expanded="true" signature="71:1259" ph="{...}" />
-                <marker date="1551103918028" expanded="true" signature="124:990" ph="{...}" />
-                <marker date="1551103918028" expanded="true" signature="202:357" ph="{...}" />
-                <marker date="1551103918028" expanded="true" signature="260:343" ph="{...}" />
-                <marker date="1551103918028" expanded="true" signature="370:522" ph="/* System.Exception 클래스를 이용하면 하나의 catch로 처리할 수 있다. ... */" />
-                <marker date="1551103918028" expanded="true" signature="570:644" ph="{...}" />
-                <marker date="1551103918028" expanded="true" signature="694:831" ph="{...}" />
-                <marker date="1551103918028" expanded="true" signature="863:954" ph="{...}" />
-                <marker date="1551103918028" expanded="true" signature="1027:1253" ph="{...}" />
-                <marker date="1551103918028" expanded="true" signature="1063:1143" ph="{...}" />
-                <marker date="1551103918028" expanded="true" signature="1160:1243" ph="{...}" />
+                <marker date="1551104356207" expanded="true" signature="42:1273" ph="{...}" />
+                <marker date="1551104356207" expanded="true" signature="71:1271" ph="{...}" />
+                <marker date="1551104356207" expanded="true" signature="124:964" ph="{...}" />
+                <marker date="1551104356207" expanded="true" signature="202:357" ph="{...}" />
+                <marker date="1551104356207" expanded="true" signature="260:343" ph="{...}" />
+                <marker date="1551104356207" expanded="true" signature="370:522" ph="/* System.Exception 클래스를 이용하면 하나의 catch로 처리할 수 있다. ... */" />
+                <marker date="1551104356207" expanded="true" signature="570:644" ph="{...}" />
+                <marker date="1551104356207" expanded="true" signature="694:831" ph="{...}" />
+                <marker date="1551104356207" expanded="true" signature="863:954" ph="{...}" />
+                <marker date="1551104356207" expanded="true" signature="1001:1265" ph="{...}" />
+                <marker date="1551104356207" expanded="true" signature="1037:1117" ph="{...}" />
+                <marker date="1551104356207" expanded="true" signature="1134:1255" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -194,12 +186,12 @@
       <workItem from="1550823610339" duration="2800000" />
       <workItem from="1550906746036" duration="3635000" />
       <workItem from="1551017354591" duration="890000" />
-      <workItem from="1551102962152" duration="953000" />
+      <workItem from="1551102962152" duration="1674000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27908000" />
+    <option name="totallyTimeSpent" value="28629000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -219,9 +211,9 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50080776" side_tool="true" weight="0.3290938" />
       <window_info anchor="bottom" id="Unit Tests" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49919224" visible="true" weight="0.3290938" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49919224" weight="0.3290938" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3290938" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3290938" />
       <window_info anchor="bottom" id="NuGet" order="7" sideWeight="0.49919224" weight="0.3290938" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2907916" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -552,21 +544,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ExceptionHandling/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="38" column="16" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="16" />
+        <state relative-caret-position="217">
+          <caret line="48" column="16" lean-forward="true" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
           <folding>
-            <marker date="1551103918028" expanded="true" signature="42:1261" ph="{...}" />
-            <marker date="1551103918028" expanded="true" signature="71:1259" ph="{...}" />
-            <marker date="1551103918028" expanded="true" signature="124:990" ph="{...}" />
-            <marker date="1551103918028" expanded="true" signature="202:357" ph="{...}" />
-            <marker date="1551103918028" expanded="true" signature="260:343" ph="{...}" />
-            <marker date="1551103918028" expanded="true" signature="370:522" ph="/* System.Exception 클래스를 이용하면 하나의 catch로 처리할 수 있다. ... */" />
-            <marker date="1551103918028" expanded="true" signature="570:644" ph="{...}" />
-            <marker date="1551103918028" expanded="true" signature="694:831" ph="{...}" />
-            <marker date="1551103918028" expanded="true" signature="863:954" ph="{...}" />
-            <marker date="1551103918028" expanded="true" signature="1027:1253" ph="{...}" />
-            <marker date="1551103918028" expanded="true" signature="1063:1143" ph="{...}" />
-            <marker date="1551103918028" expanded="true" signature="1160:1243" ph="{...}" />
+            <marker date="1551104356207" expanded="true" signature="42:1273" ph="{...}" />
+            <marker date="1551104356207" expanded="true" signature="71:1271" ph="{...}" />
+            <marker date="1551104356207" expanded="true" signature="124:964" ph="{...}" />
+            <marker date="1551104356207" expanded="true" signature="202:357" ph="{...}" />
+            <marker date="1551104356207" expanded="true" signature="260:343" ph="{...}" />
+            <marker date="1551104356207" expanded="true" signature="370:522" ph="/* System.Exception 클래스를 이용하면 하나의 catch로 처리할 수 있다. ... */" />
+            <marker date="1551104356207" expanded="true" signature="570:644" ph="{...}" />
+            <marker date="1551104356207" expanded="true" signature="694:831" ph="{...}" />
+            <marker date="1551104356207" expanded="true" signature="863:954" ph="{...}" />
+            <marker date="1551104356207" expanded="true" signature="1001:1265" ph="{...}" />
+            <marker date="1551104356207" expanded="true" signature="1037:1117" ph="{...}" />
+            <marker date="1551104356207" expanded="true" signature="1134:1255" ph="{...}" />
           </folding>
         </state>
       </provider>
